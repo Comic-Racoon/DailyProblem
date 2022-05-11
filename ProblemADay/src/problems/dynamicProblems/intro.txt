@@ -1,0 +1,27 @@
+
+
+How to know problem is dp?
+
+-> there will be 2 things
+        a) there will be given to take choice
+               -> weather to include ele or not
+               -> there will be 2 function call ( 2 recursion call is same problem )
+        b) would be asked to have optimal solution
+               -> greatest, smallest, largest
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+solution are find as
+    step1 -> think about recursive
+    step2 -> memoization
+    step3 -> top - down approach
+--------------------------------------------------------------------------------------
+
+main type of questions
+
+1) 0-1 knap sack
+2) unbounded knapsack
+3) fibonacee
+4) longest commo etc etc .........
+
+ref:- https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=1
