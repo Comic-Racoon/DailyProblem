@@ -19,3 +19,12 @@ c) unbounded
 
 ------------------------------------------------
 ------------------------------------------------
+
+Problems completely base on or are variation of knapsack problem
+
+1-> sub-set sum problem
+2-> equal sum partition
+3-> count of subset sum
+4-> minimum sub-set sum difference
+5-> Target sum
+6-> no of sub-set of given difference
