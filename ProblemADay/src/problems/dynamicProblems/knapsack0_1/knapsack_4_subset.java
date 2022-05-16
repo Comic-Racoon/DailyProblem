@@ -38,12 +38,10 @@ public class knapsack_4_subset {
                         dp[i][j] = dp[i-1][j] || dp[i][j-arr[i-1]];
                      }
                 }
-
-
             }
         }
 
-        System.out.println(dp[size][target]);
+        System.out.println("We have sub-set in given array which targets sum K=" + target + " " +dp[size][target]);
 
     }
 
