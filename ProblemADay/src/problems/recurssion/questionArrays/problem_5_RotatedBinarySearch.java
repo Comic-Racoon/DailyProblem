@@ -3,8 +3,9 @@ package problems.recurssion.questionArrays;
 public class problem_5_RotatedBinarySearch {
 
     public static void main(String[] args) {
-        int arr [] = { 3,4,5,6,1,2};
-        int target = 5;
+        //
+        int arr [] = { 13, 18, 25, 2,8, 10};
+        int target = 1;
 
         System.out.println(search(arr, target, 0, arr.length - 1 ));
 
