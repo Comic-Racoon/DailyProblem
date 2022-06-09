@@ -22,6 +22,7 @@ public class Problem11 {
         root.next.next.next.next.next = new ListNode(6);
 
         int count = 0;
+
         while(root!=null){
             count++;
             root = root.next;

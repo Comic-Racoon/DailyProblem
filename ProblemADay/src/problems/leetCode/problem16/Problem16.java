@@ -72,10 +72,6 @@ Explanation: The answer is not 11, because the island must be connected 4-direct
                   + areaOfIsland(arr, row, col -1, visited )
                    + areaOfIsland(arr, row + 1 , col, visited )
                   + areaOfIsland(arr, row, col +1, visited ));
-
-
-
-
     }
 
 }
